@@ -1,3 +1,6 @@
+// Author : Pandit Deepesh Kumar Sharma (The-Pace)
+// dk30390
+// Mkthnum , spoj , Persistent Segment Tree
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long int
